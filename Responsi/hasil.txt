@@ -1,0 +1,22 @@
+REKAP PENYEWAAN RENTAL
+===============================
+Nama           : Akhmad Haqqy Aulia Ilmi
+Alamat         : Demangharjo, Rt.03/Rw.02, No. 53, Kec. Warureja, Kab.Tegal, Jawa Tengah. Kode pos 52183
+Email          : haqqy202020@gmail.com
+No Telp        : 085225309471
+Tgl Sewa       : 2022-07-28
+Jenis Kelamin  : laki-laki
+Type Mobil     : Xpander
+Jenis          : DANA
+===============================
+REKAP PENYEWAAN RENTAL
+===============================
+Nama           : Akhmad Haqqy Aulia Ilmi
+Alamat         : Demangharjo, Rt.03/Rw.02, No. 53, Kec. Warureja, Kab.Tegal, Jawa Tengah. Kode pos 52183
+Email          : haqqy202020@gmail.com
+No Telp        : 085225309471
+Tgl Sewa       : 2022-07-21
+Jenis Kelamin  : laki-laki
+Type Mobil     : Xpander
+Jenis          : Gopay
+===============================
